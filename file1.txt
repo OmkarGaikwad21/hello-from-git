@@ -1,2 +1,6 @@
 Hello from git!
+<<<<<<< HEAD
 branch2
+=======
+hellooooo
+>>>>>>> 007dab1c3be74bdf249d77d7dc6367099e6b79af
